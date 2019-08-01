@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+
+    <empleado>
+        <nombre>Kevin</nombre>
+        <apellido>Urbano</apellido>
+        <numContacto>942123456</numContacto>
+        <email>kevin_u2004@hotmail.com</email>
+
+        <direccion>
+            <ciudad>Somo</ciudad>
+            <provincia>Cantabria</provincia>
+            <cp>39140</cp>
+        </direccion>    
+    </empleado>
+
+
+    <empleado>
+        <nombre>Pablo</nombre>
+        <apellido>Ingelmo</apellido>
+        <numContacto>942123432</numContacto>
+        <email>pinsolar@gmail.com</email>
+
+        <direccion>
+            <ciudad>Santander</ciudad>
+            <provincia>Cantabria</provincia>
+            <cp>39100</cp>
+        </direccion>    
+    </empleado>
+    
+</empresa>
