@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arboles>
+    
+    <arbol ref="Acer monspessulanum">
+        <nombre>Arce de Montpellier</nombre>
+        <nombre>Arce menor</nombre>        
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>6 a 10 metros</altura>
+        <forma_estructura>
+            <copa>Esferica</copa>
+            <tronco_principal>Recto con bifurcaciones</tronco_principal>
+            <ramaje>Colgante</ramaje>
+        </forma_estructura>
+        <colores>
+            <primavera>Haz verde brillante, envés verde blanquecino</primavera>
+        </colores>
+        <resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+    </arbol>
+
+    <arbol ref="Olea europea">
+        <nombre>Olivo</nombre>
+        <vegetacion>Perenne</vegetacion>
+        <altura>8 a 15 metos</altura>
+        <forma_estructura>
+            <copa>Irregular</copa>
+            <tronco_principal>Irregular con bifurcaciones</tronco_principal>
+            <ramaje></ramaje>
+        </forma_estructura>
+        <colores>
+            <primavera></primavera>
+        </colores>
+        <resistencia_heladas></resistencia_heladas>
+    </arbol>
+    
+    <arbol ref="Platanus orientalis">
+        <nombre>Platano</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>20 a 25 metros></altura>
+        <forma_estructura>
+            <copa>Ovoidal</copa>
+            <tronco_principal>Recto</tronco_principal>
+            <ramaje>Expandido</ramaje>
+        </forma_estructura>
+        <colores>
+            <primavera>Haz verde medio, envés verde claro</primavera>
+            <otoño>Ocre</otoño>
+        </colores>
+        <resistencia_heladas>Heladas fuertes (hasta -20ºC)</resistencia_heladas>
+    </arbol>
+    
+    <arbol ref="Quercus ilex">
+        <nombre>Encina</nombre>
+        <vegetacion>Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <forma_estructura>
+            <copa>Esferica o elíptica irregular</copa>
+            <tronco_principal>Recto</tronco_principal>
+            <ramaje>Tortuoso</ramaje>
+        </forma_estructura>
+        <colores>
+            <primavera>Plateado en hojas jóvenes.En hojas antiguas, haz verde osucro, envés plateado</primavera>
+        </colores>
+        <resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+    </arbol>
+
+
+</arboles>

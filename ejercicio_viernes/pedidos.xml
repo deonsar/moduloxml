@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+    
+    <pedido>    
+        <destinatario>            
+            <nombre>Juan</nombre>
+            <apellidos>Delgado Martinez</apellidos>            
+        </destinatario>
+        
+        <articulo ref="A2023">Bicicleta</articulo>  
+            
+        <direccion_entrega>
+            <via tipo="calle">Barco</via>
+            <numero>4</numero>
+            <piso>tercero</piso>
+            <letra>A</letra>
+        </direccion_entrega>
+
+        <fecha_entrega>
+            <dia>19</dia>
+            <mes>5</mes>
+            <año>2000</año>
+        </fecha_entrega>
+    </pedido>
+    
+</pedidos>

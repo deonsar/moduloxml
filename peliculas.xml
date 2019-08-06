@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="peliculas.css"?>
+<peliculas>
+    
+    <pelicula genero="Ciencia ficción">    
+        <duracion>148 min.</duracion>
+        
+        <actores>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Tom Hardy</actor>
+        </actores>        
+        <fecha>2010</fecha>
+        <directores>
+            <director>Christopher Nolan</director>
+        </directores>
+        
+        <titulo>Origen</titulo>           
+    </pelicula>
+    
+    <pelicula genero="Animada">    
+        <duracion>96 min.</duracion>
+        
+        <actores>
+            <actor>Carl Fredricksen</actor>
+            <actor>Russell</actor>
+        </actores>
+        <fecha>2009</fecha>
+        <directores>
+            <director>Pete Docter</director>
+            <director>Bob Peterson</director>
+        </directores>
+        
+        <titulo>Up</titulo>           
+    </pelicula>
+    
+    <pelicula genero="Ciencia ficción">    
+        <duracion>2h 16min</duracion>
+        
+        <actores>
+            <actor>Laurence Fishburne</actor>
+            <actor>Keanu Reeves</actor>
+        </actores>
+        <fecha>1999</fecha>
+        <directores>
+            <director>Lilly Wachowski</director>
+            <director>Lana Wachowski</director>
+        </directores>
+        
+        <titulo>The Matrix</titulo>           
+    </pelicula>
+
+</peliculas>

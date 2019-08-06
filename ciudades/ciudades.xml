@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!DOCTYPE ciudades [
+    <!ELEMENT ciudad (nombre,pais)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT pais (#PCDATA)>
+    <!ATTLIST pais continente CDATA "Europa">
+]>
+
 <ciudades>
     <ciudad>
         <nombre>Nueva Delhi</nombre>

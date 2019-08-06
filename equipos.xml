@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    
+    <equipo>
+        
+        <nombre>Athletic</nombre>
+        
+        <ciudad>Bilbao</ciudad>
+        
+        <entrenador/>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Andoni López</nombre>            
+                <nacionalidad>Español</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>Íñigo Martínez</nombre>            
+                <nacionalidad>Español</nacionalidad>
+            </jugador>
+        </jugadores>
+        
+    </equipo>
+    
+    <equipo>
+        
+        <nombre>Bolonia</nombre>
+        
+        <ciudad>Italia</ciudad>
+        
+        <entrenador/>
+        <jugadores>
+            <jugador posicion="medio">
+                <nombre>Federico Ravaglia</nombre>            
+                <nacionalidad>italiano</nacionalidad>
+            </jugador>
+
+            <jugador posicion="delantero">
+                <nombre>Mattia Bani</nombre>            
+                <nacionalidad>italiano</nacionalidad>
+            </jugador>   
+        </jugadores>
+    </equipo>
+
+</equipos>

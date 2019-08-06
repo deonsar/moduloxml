@@ -1,0 +1,35 @@
+peliculas:before {
+  display: block;
+  width: 8em;
+  font-weight: bold;
+  font-size: 200%;
+  content: "Catalogo";
+  margin: -.75em 0px .25em -.25em;
+  padding: .1em .25em;
+  background-color: #cdf;
+  }
+
+peliculas {
+  display: block;
+  margin: 2em 1em;
+  border: 4px solid #cdf;
+  padding: 0px 1em;
+  background-color: white;
+  }
+
+pelicula {
+  display: block;
+  margin-bottom: 1em;
+  }
+
+actor,director,duracion, titulo {
+  display: block;
+  font-weight: bold;
+  font-size: 150%;
+  }
+
+fecha{
+  display: block;
+  font-weight: italic;
+  font-size: 150%;
+}
